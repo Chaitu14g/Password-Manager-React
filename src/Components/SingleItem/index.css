@@ -1,0 +1,129 @@
+.passwordOutputContainer_empty {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.passwordOutputContainer_empty_image {
+  height: 180px;
+  width: 250px;
+}
+
+.passwordOutputContainer_empty_heading {
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.blueImage {
+  background-color: #0b69ff;
+}
+
+.greyImage {
+  background-color: #b6c3ca;
+}
+
+.violetImage {
+  background-color: #7683cb;
+}
+
+.greenImage {
+  background-color: #10b981;
+}
+
+.orangeImage {
+  background-color: #f97316;
+}
+
+.redImage {
+  background-color: #b91c1c;
+}
+
+.darkGreenImage {
+  background-color: #14b8a6;
+}
+
+.yellowImage {
+  background-color: #f59e0b;
+}
+
+.darkGrayImage {
+  background-color: #64748b;
+}
+
+.lightBlueImage {
+  background-color: #0ea5e9;
+}
+
+.singleItemContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: #c3caea;
+  padding: 10px;
+  height: 120px;
+  width: 250px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  overflow: auto;
+}
+
+.firstLetter {
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 25px;
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+  font-size: 20px;
+  color: #f8fafc;
+  text-align: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.webNamePassContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-right: 10px;
+}
+
+.webNamePassContainerPara {
+  font-size: 15px;
+  color: #f8fafc;
+}
+
+.starsImage {
+  height: 15px;
+  width: 100px;
+}
+
+.deleteImage {
+  height: 20px;
+  width: 20px;
+}
+
+.noUseButton {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-width: 0px;
+  background-color: transparent;
+}
+
+.passwordsItemContainers {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
